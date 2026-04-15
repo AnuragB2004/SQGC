@@ -263,20 +263,6 @@ where n is the key length and δ = 0.003 (SQGM), outperforming BB84 (δ = 0.002)
 
 ---
 
-## 📄 Citation
-
-If you use this code or results, please cite:
-
-```bibtex
-@article{sqgm2026,
-  title   = {Secure Quantum Communication Using Strategic Quantum Games 
-             and Equilibrium-Based Defense Mechanisms},
-  author  = {Banerjee, Anurag and others},
-  journal = {IEEE Transactions on ...},
-  year    = {2026}
-}
-```
-
 ---
 
 ## 📜 License
